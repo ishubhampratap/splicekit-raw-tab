@@ -1,0 +1,3 @@
+{ "id": "local.rawtab", "name": "RAW Tab", "version": "2.0.0",
+  "description": "Final Cut Pro's RAW settings (BRAW and other RAW processors, ProRes RAW, RED R3D) in their own inspector tab.",
+  "author": "local", "apiVersion": 1, "entry": { "native": "RawTab.dylib" }, "methods": [], "dependencies": [] }
